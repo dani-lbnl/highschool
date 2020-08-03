@@ -1,5 +1,5 @@
 # IDEAL - High School
-SAGE Program - activity Job Shadow
+SAGE-S Program - activity Job Shadow
 
 This material contains accomplishments about DOE ASCR ECRP project called Image across Domains, Experiments, Algorithms and Learning (IDEAL). This is a compact  version of talk previously shown at <a href="https://github.com/dani-lbnl/wids2020">WiDS'20</a>.
 
