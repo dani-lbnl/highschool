@@ -11,6 +11,8 @@ Image across Domains, Experiments, Algorithms and Learning (IDEAL) - High School
       - Presentation: <a href=SAGE_dani_vision.pdf>[here]</a>
       <p>
       - Video: <a href=schedule.pdf>[here]</a>
+       <p>
+        https://bit.ly/machinevisionlbl
       </td>
  </tr>
 </table>
