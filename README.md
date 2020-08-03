@@ -3,7 +3,7 @@ Image across Domains, Experiments, Algorithms and Learning (IDEAL) - High School
 
 <table border="0">
  <tr>
-    <td><img src="wids_logo.jpg" width="400">
+    <td><img src="sage.png" width="400">
     </td>
     <td>
      <p>
