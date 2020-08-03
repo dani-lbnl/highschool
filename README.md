@@ -1,6 +1,6 @@
 # IDEAL - High School
 SAGE Program - activity Job Shadow
-Image across Domains, Experiments, Algorithms and Learning (IDEAL) - High School version
+This material contains accomplishments about DOE ASCR ECRP project called Image across Domains, Experiments, Algorithms and Learning (IDEAL). This is a compact  version of talk previous shown at WiDS'20.
 
 <table border="0">
  <tr>
