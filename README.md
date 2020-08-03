@@ -12,7 +12,9 @@ This material contains accomplishments about DOE ASCR ECRP project called Image 
       <p>
       - Video: <a href=schedule.pdf>[here]</a>
        <p>
-      - More info about science projects: <a href=https://bit.ly/idealdatascience> [here] </a>  
+      - More info about science projects: <a href=https://bit.ly/idealdatascience> [here] </a>
+       <p>
+      - Get started - python & image processing: <a href=https://datacarpentry.org/image-processing/> [here] </a>
       </td>
  </tr>
 </table>
