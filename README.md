@@ -12,8 +12,9 @@ Image across Domains, Experiments, Algorithms and Learning (IDEAL) - High School
       <p>
       - Video: <a href=schedule.pdf>[here]</a>
        <p>
-        https://bit.ly/machinevisionlbl
+      - More information about <science projects:> [here] https://bit.ly/idealdatascience</a>  
       </td>
  </tr>
 </table>
 
+This site: https://bit.ly/machinevisionlbl
