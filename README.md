@@ -12,7 +12,7 @@ Image across Domains, Experiments, Algorithms and Learning (IDEAL) - High School
       <p>
       - Video: <a href=schedule.pdf>[here]</a>
        <p>
-      - More information about <science projects:> [here] https://bit.ly/idealdatascience</a>  
+      - More info about science projects: <a href=https://bit.ly/idealdatascience> [here] </a>  
       </td>
  </tr>
 </table>
