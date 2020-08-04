@@ -9,7 +9,7 @@ This material contains accomplishments about DOE ASCR ECRP project called Image 
     </td>
     <td>
      <p>
-      - Presentation: <a href=SAGE_dani_vision.pdf>[here]</a>
+      - Presentation: <a href=SAGE_dani_vision_compact.pdf>[here]</a>
       <p>
       - Video: <a href=https://drive.google.com/file/d/1Df166MV5ADXY4Sv53V8xHNid58dEFhrr/view?usp=sharing>[here]</a>
        <p>
