@@ -20,4 +20,13 @@ This material contains accomplishments about DOE ASCR ECRP project called Image 
  </tr>
 </table>
 
+## Code of Conduct
+1. How can a student contact me? They can email you, they must CC the SAGE email address. 
+2. What if a student sends me an email and doesn't CC the SAGE email address? Send your reply with the SAGE email address in the CC field. 
+3. What if a student follows me on social media (LinkedIn, Instagram, etc)? That is OK, but do not follow their social media accounts. 
+4. What if a student sends me a message on social media? Do not reply on social media. Instead, send them an email and CC the SAGE email address. 
+ 
+
+ 
+
 This site: https://bit.ly/machinevisionlbl
