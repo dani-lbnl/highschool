@@ -11,7 +11,7 @@ This material contains accomplishments about DOE ASCR ECRP project called Image 
      <p>
       - Presentation: <a href=SAGE_dani_vision_compact.pdf>[here]</a>
       <p>
-      - Video: <a href=https://drive.google.com/file/d/1Df166MV5ADXY4Sv53V8xHNid58dEFhrr/view?usp=sharing>[here]</a>
+      - Video: [contact Dani by email]
        <p>
       - More info about science projects: <a href=https://bit.ly/idealdatascience> [here] </a>
        <p>
